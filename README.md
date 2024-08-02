@@ -1,2 +1,13 @@
-# BundleFactory
- Full front and back end code for Bundle Factory promotion generation.
+# ** Bundle Factory **
+# Dependencies
+Python 3.11.9 \
+React 18.3.1
+
+
+Open Mac terminal or Windows command line and clone the repository by copying and entering the line below:
+```
+
+```
+
+
+```
