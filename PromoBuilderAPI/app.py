@@ -18,7 +18,7 @@ from io import StringIO
 import json
 import zipfile
 
-ComboStoreAPI = "http://127.0.0.1:5001/get_mappings"
+ComboStoreAPI = "http://127.0.0.1:5001/get_mappings_and_brands"
 
 app = Flask(__name__)
 CORS(app)

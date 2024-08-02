@@ -25,6 +25,14 @@ cd PromoBuilderAPI
 python3.11 app.py
 ```
 
+# Run Keegan's Combo Store Backend to retrieve development set data from Elite Reseller data at the website below with the instructions included.
+Can be found at https://github.com/keeganasmith/joebob
+Once all dependencies have been installed, per the joebob instructions, run the code snippet below in a separate terminal window.
+```
+cd backend
+python3 main.py
+```
+
 # Run the Application Front End
 In a separate terminal tab from the Bundle Factory folder, enter the following. This will open a webpage on localhost with which you can interact with the platform.
 ```
